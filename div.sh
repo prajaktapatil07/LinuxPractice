@@ -1,5 +1,5 @@
 #!/bin/bash
-#number divisible by 3 and 5 but not divisible by 15
+#number divisible by 3 and 5 but not divisible by 15..same logic for divided by2 even odd numbers etc
 
 #Author prajakta
 
