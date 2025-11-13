@@ -1,7 +1,6 @@
-Report generated on (IST): 2025-11-11 19:35:01
+Report generated on (IST): 2025-11-13 14:20:11
 List of s3
 List of ec2
-"i-0237d25fc222cf384"
 List of lambda
 {
     "Functions": []
@@ -15,7 +14,7 @@ List of IAM users
             "UserId": "AIDASSTKI3HHEFGKBPG65",
             "Arn": "arn:aws:iam::177390279118:user/praj",
             "CreateDate": "2025-11-01T14:15:55+00:00",
-            "PasswordLastUsed": "2025-11-11T11:23:30+00:00"
+            "PasswordLastUsed": "2025-11-12T11:58:57+00:00"
         }
     ]
 }
